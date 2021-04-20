@@ -17,7 +17,7 @@ class ScoreCardWidget extends StatelessWidget {
             borderRadius: BorderRadius.circular(15),
             boxShadow: [BoxShadow(color: AppColors.lightGrey, blurRadius: 5)]),
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20),
+          padding: const EdgeInsets.symmetric(horizontal: 24),
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
@@ -34,7 +34,7 @@ class ScoreCardWidget extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text("Vamos começar", style: AppTextStyles.heading),
-                      Text("Complete os desafios e avance em conhecimento",
+                      Text("Complete os desafios e avance em conhecimento.",
                           style: AppTextStyles.body)
                     ],
                   ),
