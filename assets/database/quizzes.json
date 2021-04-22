@@ -7,7 +7,7 @@
     "questions": [
       {
         "title": "Está curtindo o Flutter?",
-        "answers": [
+        "awnsers": [
          {"title": "Estou curtindo"},
          {"title": "Amando o Flutter"},
          {"title": "Muito Top"},
@@ -16,7 +16,7 @@
       },
        {
         "title": "Está curtindo o Flutter?",
-        "answers": [
+        "awnsers": [
          {"title": "Estou curtindo"},
          {"title": "Amando o Flutter"},
          {"title": "Muito Top"},
